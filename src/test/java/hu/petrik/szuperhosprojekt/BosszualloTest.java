@@ -20,6 +20,11 @@ class BosszualloTest {
         {
             return false;
         }
+
+        @Override
+        public Boolean legyoziE(String Szuperhos) {
+            return null;
+        }
     }
 
     Bosszuallo bosszuallo;
